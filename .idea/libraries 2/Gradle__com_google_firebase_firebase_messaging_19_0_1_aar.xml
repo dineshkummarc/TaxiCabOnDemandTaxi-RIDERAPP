@@ -1,0 +1,42 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.firebase:firebase-messaging:19.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8993ac8979d340b99224f000f9ecbe12/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8993ac8979d340b99224f000f9ecbe12/jetified-firebase-messaging-19.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c683ccfb3c4f62811379724c70f7897/jetified-firebase-messaging-19.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c683ccfb3c4f62811379724c70f7897/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8c683ccfb3c4f62811379724c70f7897/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b32d42de3b9ebc68b841d5a1c9ade34/jetified-firebase-messaging-19.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b32d42de3b9ebc68b841d5a1c9ade34/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8b32d42de3b9ebc68b841d5a1c9ade34/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5993dd34408158aa8d88972c65699429/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5993dd34408158aa8d88972c65699429/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5993dd34408158aa8d88972c65699429/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/315f2d7a512782b4f2dd92ea81f45c79/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/315f2d7a512782b4f2dd92ea81f45c79/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/315f2d7a512782b4f2dd92ea81f45c79/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3f657bab57c2a346c5d1433a90735e4/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3f657bab57c2a346c5d1433a90735e4/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b3f657bab57c2a346c5d1433a90735e4/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9c71e1f4f74702d077317ffb6e86813/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9c71e1f4f74702d077317ffb6e86813/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a9c71e1f4f74702d077317ffb6e86813/jetified-firebase-messaging-19.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee3cd41ba9f52911d0b1ee6591ee9849/jetified-firebase-messaging-19.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee3cd41ba9f52911d0b1ee6591ee9849/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ee3cd41ba9f52911d0b1ee6591ee9849/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c09737582bc3dc9fe02731e425df7173/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c09737582bc3dc9fe02731e425df7173/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c09737582bc3dc9fe02731e425df7173/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b569d3d7f28bd4de38b3d4af969680aa/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b569d3d7f28bd4de38b3d4af969680aa/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b569d3d7f28bd4de38b3d4af969680aa/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37784b8e782e74c770faf8be9da870d1/jetified-firebase-messaging-19.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37784b8e782e74c770faf8be9da870d1/jetified-firebase-messaging-19.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/37784b8e782e74c770faf8be9da870d1/jetified-firebase-messaging-19.0.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.firebase/firebase-messaging/19.0.1/f8d4d491c1e3f58e8f4e5ca0acd2c4a5a68cd15e/firebase-messaging-19.0.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

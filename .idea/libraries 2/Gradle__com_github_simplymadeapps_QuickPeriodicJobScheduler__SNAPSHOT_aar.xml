@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.simplymadeapps:QuickPeriodicJobScheduler:-SNAPSHOT@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90d095aeee830cb7112e47317c53b856/QuickPeriodicJobScheduler--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90d095aeee830cb7112e47317c53b856/QuickPeriodicJobScheduler--SNAPSHOT/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90d095aeee830cb7112e47317c53b856/QuickPeriodicJobScheduler--SNAPSHOT/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/417bb21307ae6ad6be992b68f54b7bbc/QuickPeriodicJobScheduler--SNAPSHOT/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/417bb21307ae6ad6be992b68f54b7bbc/QuickPeriodicJobScheduler--SNAPSHOT/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/417bb21307ae6ad6be992b68f54b7bbc/QuickPeriodicJobScheduler--SNAPSHOT/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.simplymadeapps/QuickPeriodicJobScheduler/-SNAPSHOT/e10f81cb11f9006b0112b5f8cff7baf9dbd2bfde/QuickPeriodicJobScheduler--SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

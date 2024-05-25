@@ -1,0 +1,57 @@
+<component name="libraryTable">
+  <library name="Gradle: com.craftman.cardform:cardform:0.0.2@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0367abdd67e7bf1985d3162bc76fce6e/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2e1cb2fb08289b7d9671da380e08b33/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35dc512e9dd07e2a88813b8c1b83cf05/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/541faaab4e9a1145c0476d14c7ebe387/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b044d20586d359f9b2eeb31686023db1/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/377203b8e58418f5e8eeafe3d38b197a/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a0dd012f286dee64a3fcec4af0ec23c/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1342cbe4cab3f57cf1a7d123c114fd1e/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69100ae35139153f3197d179d1e38d56/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3270b2ffea12617260a5ede8086e07/jetified-cardform-0.0.2/annotations.zip!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a276bfcbd3d2e33207ba66109600e988/jetified-cardform-0.0.2/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0367abdd67e7bf1985d3162bc76fce6e/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0367abdd67e7bf1985d3162bc76fce6e/jetified-cardform-0.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2e1cb2fb08289b7d9671da380e08b33/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2e1cb2fb08289b7d9671da380e08b33/jetified-cardform-0.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e2e1cb2fb08289b7d9671da380e08b33/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35dc512e9dd07e2a88813b8c1b83cf05/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35dc512e9dd07e2a88813b8c1b83cf05/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/35dc512e9dd07e2a88813b8c1b83cf05/jetified-cardform-0.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/541faaab4e9a1145c0476d14c7ebe387/jetified-cardform-0.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/541faaab4e9a1145c0476d14c7ebe387/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/541faaab4e9a1145c0476d14c7ebe387/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b044d20586d359f9b2eeb31686023db1/jetified-cardform-0.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b044d20586d359f9b2eeb31686023db1/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b044d20586d359f9b2eeb31686023db1/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/377203b8e58418f5e8eeafe3d38b197a/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/377203b8e58418f5e8eeafe3d38b197a/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/377203b8e58418f5e8eeafe3d38b197a/jetified-cardform-0.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a0dd012f286dee64a3fcec4af0ec23c/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a0dd012f286dee64a3fcec4af0ec23c/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0a0dd012f286dee64a3fcec4af0ec23c/jetified-cardform-0.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1342cbe4cab3f57cf1a7d123c114fd1e/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1342cbe4cab3f57cf1a7d123c114fd1e/jetified-cardform-0.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/1342cbe4cab3f57cf1a7d123c114fd1e/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69100ae35139153f3197d179d1e38d56/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69100ae35139153f3197d179d1e38d56/jetified-cardform-0.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/69100ae35139153f3197d179d1e38d56/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3270b2ffea12617260a5ede8086e07/jetified-cardform-0.0.2/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3270b2ffea12617260a5ede8086e07/jetified-cardform-0.0.2/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9b3270b2ffea12617260a5ede8086e07/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a276bfcbd3d2e33207ba66109600e988/jetified-cardform-0.0.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a276bfcbd3d2e33207ba66109600e988/jetified-cardform-0.0.2/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a276bfcbd3d2e33207ba66109600e988/jetified-cardform-0.0.2/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.craftman.cardform/cardform/0.0.2/2dd2dc6285196a1ae3cd630283cefdac44357acc/cardform-0.0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.craftman.cardform/cardform/0.0.2/9d2f8e685a18b1668b63e59dc7d0249ad858d739/cardform-0.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

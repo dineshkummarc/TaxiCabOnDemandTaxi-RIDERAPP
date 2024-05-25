@@ -1,0 +1,44 @@
+<component name="libraryTable">
+  <library name="Gradle: com.applandeo:material-calendar-view:1.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/470776680769d45440dcc4dbc69c4fe6/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/470776680769d45440dcc4dbc69c4fe6/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0f3f7b48fcf83424c8f60b1c5e5b15b/jetified-material-calendar-view-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0f3f7b48fcf83424c8f60b1c5e5b15b/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f0f3f7b48fcf83424c8f60b1c5e5b15b/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34d9e1cac00f9bdab77f2ed85160666d/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34d9e1cac00f9bdab77f2ed85160666d/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/34d9e1cac00f9bdab77f2ed85160666d/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08a632567acc5f2f661ba022d1a088ed/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08a632567acc5f2f661ba022d1a088ed/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/08a632567acc5f2f661ba022d1a088ed/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a954d64ad3e5fd8935370d5e2856295c/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a954d64ad3e5fd8935370d5e2856295c/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a954d64ad3e5fd8935370d5e2856295c/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a84e58698d29c258320178cc55036e32/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a84e58698d29c258320178cc55036e32/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a84e58698d29c258320178cc55036e32/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b912bef7d1ddd76851fb96a95b1dc500/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b912bef7d1ddd76851fb96a95b1dc500/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b912bef7d1ddd76851fb96a95b1dc500/jetified-material-calendar-view-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7526f966b5354405578c9f6ef9f8578/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7526f966b5354405578c9f6ef9f8578/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e7526f966b5354405578c9f6ef9f8578/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d964fa76bb205fe4a2e62a30acb58e9/jetified-material-calendar-view-1.4.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d964fa76bb205fe4a2e62a30acb58e9/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5d964fa76bb205fe4a2e62a30acb58e9/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0f8ec34749086ed32729173c406781c/jetified-material-calendar-view-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0f8ec34749086ed32729173c406781c/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e0f8ec34749086ed32729173c406781c/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ce04ea855ce912a98183c55de9498524/jetified-material-calendar-view-1.4.0/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ce04ea855ce912a98183c55de9498524/jetified-material-calendar-view-1.4.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ce04ea855ce912a98183c55de9498524/jetified-material-calendar-view-1.4.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applandeo/material-calendar-view/1.4.0/9c73a53e168c1703120337bfe6bd98667e41a7c5/material-calendar-view-1.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.applandeo/material-calendar-view/1.4.0/5e15b2a97a515c8d3a0666a4acc6911c28fb8073/material-calendar-view-1.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
